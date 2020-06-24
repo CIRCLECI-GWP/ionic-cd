@@ -45,7 +45,20 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.2.0"
+    "@capacitor/cli": "2.2.0",
+    "firebase-tools": "^8.4.3"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIRCLECI-GWP/ionic-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CIRCLECI-GWP/ionic-cd/issues"
+  },
+  "homepage": "https://github.com/CIRCLECI-GWP/ionic-cd#readme"
 }
